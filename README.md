@@ -20,6 +20,7 @@ Materiais de estudo e referência para as atividades desenvolvidas no setor de P
   - [Desenvolvimento de pacotes](#package)
   - [Estatística aplicada](#stat)
   - [Machine learning e modelagem](#ml)
+  - [Renderizando documentos com o `knitr`](#knitr)
 
 ## <a name="intro"> </a> Conteúdo introdutório
 
@@ -74,5 +75,8 @@ Materiais de estudo e referência para as atividades desenvolvidas no setor de P
 ### <a name="ml"> Machine Learning e modelagem
 - [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 - [Tidy Modeling with R](https://www.tmwr.org)
+
+### <a name="knitr"> Renderizando documentos com o `knitr`
+- [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 
 
