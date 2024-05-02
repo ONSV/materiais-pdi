@@ -21,6 +21,7 @@ Materiais de estudo e referência para as atividades desenvolvidas no setor de P
   - [Estatística aplicada](#stat)
   - [Machine learning e modelagem](#ml)
   - [Renderizando documentos com o `knitr`](#knitr)
+  - [CI/CD com GitHub Actions](#actions)
 
 ## <a name="intro"> </a> Conteúdo introdutório
 
@@ -71,6 +72,7 @@ Materiais de estudo e referência para as atividades desenvolvidas no setor de P
 
 ### <a name="stat"> Estatística aplicada
 - [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com)
+- [Time Series Analysis and Its Applications with R Examples](http://www.stat.ucla.edu/~frederic/415/S23/tsa4.pdf)
 
 ### <a name="ml"> Machine Learning e modelagem
 - [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
@@ -79,4 +81,7 @@ Materiais de estudo e referência para as atividades desenvolvidas no setor de P
 ### <a name="knitr"> Renderizando documentos com o `knitr`
 - [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 
+### <a name="actions"> CI/CD com GitHub Actions
+- [Documentação do GitHub Actions](https://docs.github.com/pt/actions)
+- [Github Actions for Quarto](https://github.com/quarto-dev/quarto-actions)
 
