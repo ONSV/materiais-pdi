@@ -81,7 +81,7 @@ Materiais de estudo e referência para as atividades desenvolvidas no setor de P
 ### <a name="knitr"> Renderizando documentos com o `knitr`
 - [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 
-### <a name="actions> CI/CD com GitHub Actions
+### <a name="actions"> CI/CD com GitHub Actions
 - [Documentação do GitHub Actions](https://docs.github.com/pt/actions)
 - [Github Actions for Quarto](https://github.com/quarto-dev/quarto-actions)
 
