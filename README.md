@@ -22,6 +22,7 @@ Materiais de estudo e referência para as atividades desenvolvidas no setor de P
   - [Machine learning e modelagem](#ml)
   - [Renderizando documentos com o `knitr`](#knitr)
   - [CI/CD com GitHub Actions](#actions)
+- [Segurança Viária](#segviaria)
 
 ## <a name="intro"> </a> Conteúdo introdutório
 
@@ -85,3 +86,7 @@ Materiais de estudo e referência para as atividades desenvolvidas no setor de P
 - [Documentação do GitHub Actions](https://docs.github.com/pt/actions)
 - [Github Actions for Quarto](https://github.com/quarto-dev/quarto-actions)
 
+## <a name="segviaria"> Segurança Viária
+- [Código de Trânsito Brasileiro](https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm): Anexo I - conceitos e definições
+- [Pesquisa de sinistros de trânsito — Terminologia](https://www.abramet.com.br/repo/public/commons/ABNT%20NBR10697%202020%20Acidentes%20de%20Transito%20Terminologia.pdf)
+- [Segurança no Trânsito](https://www.onsv.org.br/source/files/originals/Livro_Seguranca_no_Transito_Versao_Abril_2024-892212.pdf)
